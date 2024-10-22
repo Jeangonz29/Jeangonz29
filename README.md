@@ -14,6 +14,8 @@
   <img height="200" width="100%" src="https://www.michaelpage.es/sites/michaelpage.es/files/2021-11/Full%20Stack%20Developer.jpg"  />
 </div>
 
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/Jeangonz29)
+
 <!--
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](link de la cuenta)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](link de la cuenta)
@@ -24,19 +26,15 @@
 
 ## Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- ⚡ Soy **Programador Full-Stark** que esta empezando en este apasionado mundo de la tecnología...
+- 😄 Especializado en **HTML5, CSS3, JavaScript, NodeJS, MongoDB**
+- ⭐ Comprometido con buscar soluciones creativas y eficientes ⭐  
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
+- 
+<br>
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -59,8 +57,6 @@
 ###
 
 
-
-- ⭐  ⭐ 
 - 📲 
 - 🎥 )
 - ✏️ 
