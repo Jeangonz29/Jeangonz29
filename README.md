@@ -36,11 +36,14 @@
   > 💬 
 <br>
 
-...
-  git clone --recursive
+### ⚙️ &nbsp;GitHub Analytics
 
-  git clone htttps:
-...
+<p align="center">
+<a href="https://github.com/Jeangonz29">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jeangonz29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeangonz29&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -53,12 +56,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Jeangonz29">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jeangonz29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeangonz29&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
