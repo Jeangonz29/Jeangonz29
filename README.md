@@ -11,7 +11,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://www.michaelpage.es/sites/michaelpage.es/files/2021-11/Full%20Stack%20Developer.jpg"  />
+  <img height="200" width="100%" src="https://www.michaelpage.es/sites/michaelpage.es/files/2021-11/Full%20Stack%20Developer.jpg"  />
 </div>
 
 <!--
@@ -60,12 +60,11 @@
 
 
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+62k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- ⭐  ⭐ 
+- 📲 
+- 🎥 )
+- ✏️ 
+- 🧑‍🏫 
 <br>
 
 ## Proyectos *bombitas*
