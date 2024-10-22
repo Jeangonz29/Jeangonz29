@@ -50,10 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Jeangonz29/Jeangonz29/output/snake.svg" alt="Snake animation" />
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
