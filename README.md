@@ -10,7 +10,7 @@
   <img height="200" width="100%" src="https://www.michaelpage.es/sites/michaelpage.es/files/2021-11/Full%20Stack%20Developer.jpg"  />
 </div>
 
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/Jeangonz29)
+[![GitHub followers](https://img.shields.io/github/followers/Jeangonz29?style=social)](https://github.com/Jeangonz29)
 
 <!--
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](link de la cuenta)
@@ -35,6 +35,9 @@
   > 
   > 💬 
 <br>
+...
+hola
+...
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
