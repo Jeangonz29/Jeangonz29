@@ -26,16 +26,18 @@
 
 ## Sobre mi
 
-- ⚡ Soy **Programador Full-Stark** que esta empezando en este apasionado mundo de la tecnología...
+  > ⚡ Soy **Programador Full-Stark** que esta empezando en este apasionado mundo de la tecnología...
+  >
   > ⭐ Especializado en:
   > **HTML5
   > CSS3
   > JavaScript
   >NodeJS
   > MongoDB**
-  ><br>
-- 😄 Comprometido con buscar soluciones creativas y eficientes  
-- 💬 
+  > 
+  > 😄 Comprometido con buscar soluciones creativas y eficientes
+  > 
+  > 💬 
 - 
 <br>
 <br clear="both">
