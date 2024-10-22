@@ -22,7 +22,7 @@
 
 ## Sobre mi
 
-  > ⚡ Soy **Programador Full-Stark** que esta empezando en este apasionado mundo de la tecnología...
+  > ⚡ Soy **Programador Full-Stack** que está empezando en este apasionado mundo de la tecnología...
   >
   > ⭐ Especializado en:
   > **HTML5
