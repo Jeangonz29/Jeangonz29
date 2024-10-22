@@ -34,7 +34,6 @@
   > 😄 Comprometido con buscar soluciones creativas y eficientes
   > 
   > 💬 
-- 
 <br>
 <br clear="both">
 
