@@ -8,7 +8,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" wight="100%" src="https://www.michaelpage.es/sites/michaelpage.es/files/2021-11/Full%20Stack%20Developer.jpg"  />
+  <img height="200" weight="100%" src="https://www.michaelpage.es/sites/michaelpage.es/files/2021-11/Full%20Stack%20Developer.jpg"  />
 </div>
 
 ###
