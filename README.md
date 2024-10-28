@@ -15,8 +15,7 @@
 
 <!--
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](link de la cuenta)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](link de la cuenta)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/Jeangonz29)
+[![Twitch Status](link)]              <----(link de la cuenta)
 ![Discord Shield](link de la cuenta)
 -->
 ###
