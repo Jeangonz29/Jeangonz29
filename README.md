@@ -34,13 +34,6 @@
   > 😄 Comprometido con buscar soluciones creativas y eficientes
   > 
   > 💬 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Jeangonz29">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeangonz29&layout=compact&langs_count=8&theme=algolia" alt="jeangonz29" />
-</a>
-</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
