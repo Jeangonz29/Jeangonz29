@@ -38,18 +38,15 @@
 
 <p align="center">
 <a href="https://github.com/Jeangonz29">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeangonz29&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeangonz29&layout=compact&langs_count=8&theme=algolia" alt="jeangonz29" />
 </a>
 </p>
 
+### ⚙️ &nbsp;GitHub Analytics
 
-
-<h3 align="left">Conéctate conmigo:</h3>
-
-
-<h3 align="left">Soporte:</h3>
-
-<p>
- <img align="center" height="180em" background-color="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeangonz29&show_icons=true&locale=es&layout=compact" alt="jeangonz29" />
+<p align="center" >
+ <a href="https://github.com/Jeangonz29">
+ <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=jeangonz29&show_icons=true&locale=es&layout=compact" alt="jeangonz29" />
+ </a>
 </p>
 
