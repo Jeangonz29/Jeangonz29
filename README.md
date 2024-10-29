@@ -50,6 +50,6 @@
 <h3 align="left">Soporte:</h3>
 
 <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeangonz29&show_icons=true&locale=es&layout=compact" alt="jeangonz29" />
+ <img align="center" height="180em" background-color="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeangonz29&show_icons=true&locale=es&layout=compact" alt="jeangonz29" />
 </p>
 
