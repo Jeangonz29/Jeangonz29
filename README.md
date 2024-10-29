@@ -42,15 +42,14 @@
 </a>
 </p>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeangonz29" alt="jeangonz29" /></a> </p>
 
 <h3 align="left">Conéctate conmigo:</h3>
 
 
 <h3 align="left">Soporte:</h3>
 
-<p><img align="izquierda" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeangonz29&show_icons=true&locale=es&layout=compact" alt="jeangonz29" /></p>
+<p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeangonz29&show_icons=true&locale=es&layout=compact" alt="jeangonz29" />
+</p>
 
