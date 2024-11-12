@@ -45,14 +45,19 @@
  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=jeangonz29&show_icons=true&locale=es&layout=compact" alt="jeangonz29" />
  </a>
 </p>
-> .[!Note].
-> XXXXXXXXXXXXXXXX
->
->[!tip]
-> XXXXXXXXXXXXXXX
->
->[!important]
-> XXXXXXXXXXXXXXX
->
+
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
 > [!CAUTION]
-> XXXXXXXXXXXXXXX
+> Advises about risks or negative outcomes of certain actions.
