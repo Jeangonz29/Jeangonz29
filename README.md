@@ -45,7 +45,7 @@
  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=jeangonz29&show_icons=true&locale=es&layout=compact" alt="jeangonz29" />
  </a>
 </p>
->[!Note]
+> .[!Note].
 > XXXXXXXXXXXXXXXX
 >
 >[!tip]
