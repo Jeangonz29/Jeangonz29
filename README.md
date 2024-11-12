@@ -46,12 +46,12 @@
  </a>
 </p>
 
-
+<!--
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> xxxxxxxx.
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> xxxxxxxx.
 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
@@ -61,3 +61,5 @@
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+-->
