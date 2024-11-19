@@ -28,17 +28,14 @@
   </a>
   <!-- Your languages and tools.
   --> 
-  <code><img width="10%" src="https://github.com/user-attachments/assets/c7c59cf3-0fd8-4233-879f-22ff6c7e2b21"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  
+  <code><img width="10%" src="https://github.com/user-attachments/assets/4737b548-3ae7-415c-a34a-a113c678b83b"></code> <!--HTML-->
+  <code><img width="10%" src="https://github.com/user-attachments/assets/a9c6b5d4-7021-47f3-a203-f22c76a36532"></code> <!--CSS-->
+  <code><img width="10%" src="https://github.com/user-attachments/assets/9fcd7227-c364-4251-bb99-ea25dd8b14f2"></code> <!--JS-->
+  <code><img width="10%" src="https://github.com/user-attachments/assets/74eacd9c-8440-4616-bd73-b2984770b8b6"></code> <!--NODEJS-->
+  <code><img width="10%" src="https://github.com/user-attachments/assets/b5906332-2baf-4d21-89a6-f5710cd49a5d"></code> <!--MONGODB-->
+  <code><img width="10%" src="https://github.com/user-attachments/assets/c7c59cf3-0fd8-4233-879f-22ff6c7e2b21"></code> <!--Figma-->
+
 </p>
 
 <!--
