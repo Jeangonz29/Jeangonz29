@@ -15,7 +15,7 @@
 <!--image aligned to the right.-->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 Actualmente estoy trabajando en un "SISTEMA DE GESTIÓN ADMINISTRATIVA Y ASISTENCIA INTEGRADA CON RECONOCIMIENTO FACIAL"; <!-- [lin](URL); -->
+- 👨🏽‍💻 Actualmente estoy elaborando en un "Sistema de gestión administrativa y asistencia integrada con reconocimiento facial"; <!-- [lin](URL); -->
 - 🌱 También estoy culminando mi ultimo semestre como licenciado en administración mención informática, pero me apasiona el mundo de la programacion;
 - 😄 Comprometido con buscar soluciones creativas y eficientes;
 - 💬 Si quieres saber más, puedes preguntarme,
