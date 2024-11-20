@@ -57,7 +57,7 @@
 </div>
 
 
-### &nbsp;MÁS SOBRE MI: 
+### &nbsp; MÁS SOBRE MI: 
   > ⚡ Soy **Programador Full-Stack** que está empezando en este apasionado mundo de la tecnología...
   >
   > Pues me especializado:
@@ -95,7 +95,7 @@
 > Advises about risks or negative outcomes of certain actions.
 aqui crear parte por parte lo que ire colocando
 
-Aqui ver un tuotrial de como usar git
+Aqui ver un tutorial de como usar git
 
 
 -->
