@@ -67,9 +67,9 @@
   > NodeJS
   > MongoDB**
   > 
-  > Tambien tengo conocimientos en figma, para la ceación de prototipos
+  > Tambien tengo conocimientos en figma, para la creación de prototipos
   >   
-  > Manejo herramientas ofimáticas
+  > Manejo de herramientas ofimáticas
 
 <!--
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](link de la cuenta)
