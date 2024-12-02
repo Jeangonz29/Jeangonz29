@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](#)
 
 
-### &nbsp;SOBRE MI:
+### &nbsp;SOBRE MI: 
 
 <!--image aligned to the right.-->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
