@@ -2,7 +2,7 @@
 <div>
 <h1 align="center">Hola, mi nombre es Jean Freider 👋</h1>
 </div>
-
+ 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Jeangonz29)
 [![GitHub followers](https://img.shields.io/github/followers/Jeangonz29?style=social)](https://github.com/Jeangonz29)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeanfreidergonz29/)
